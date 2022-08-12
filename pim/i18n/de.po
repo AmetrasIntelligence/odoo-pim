@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.odoo-pim] 13.0/pim/i18n/pim.pot\n"
 "X-Crowdin-File-ID: 3490\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:48\n"
+"PO-Revision-Date: 2022-08-12 07:49\n"
 
 #. module: pim
 #: model:ir.actions.act_window,name:pim.attribute_group_form_action
@@ -73,14 +73,14 @@ msgstr ""
 #. module: pim
 #: model:ir.ui.menu,name:pim.menu_product_product
 msgid "Product Variants"
-msgstr ""
+msgstr "Produkt Varianten"
 
 #. module: pim
 #: model:ir.actions.act_window,name:pim.product_template_action
 #: model:ir.ui.menu,name:pim.main_menu_product
 #: model:ir.ui.menu,name:pim.menu_product_template
 msgid "Products"
-msgstr ""
+msgstr "Produkte"
 
 #. module: pim
 #: model:res.groups,name:pim.group_pim_reader
