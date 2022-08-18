@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.odoo-pim] 13.0/product_attribute_set/i18n/product_attribute_set.pot\n"
 "X-Crowdin-File-ID: 3492\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-18 12:33\n"
+"PO-Revision-Date: 2022-08-18 15:36\n"
 
 #. module: product_attribute_set
 #: model:ir.model.fields,field_description:product_attribute_set.field_product_product__attribute_set_id
@@ -100,7 +100,7 @@ msgstr "Volumen"
 #: model:attribute.attribute,field_description:product_attribute_set.computer_weight_attribute
 #: model:ir.model.fields,field_description:product_attribute_set.computer_weight_attribute_ir_model_fields
 msgid "Weight"
-msgstr ""
+msgstr "Gewicht"
 
 #. module: product_attribute_set
 #: model:attribute.attribute,field_description:product_attribute_set.computer_linux_compatible_attribute
