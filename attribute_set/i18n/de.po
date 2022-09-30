@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.odoo-pim] 13.0/attribute_set/i18n/attribute_set.pot\n"
 "X-Crowdin-File-ID: 3482\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-09-07 14:49\n"
+"PO-Revision-Date: 2022-09-30 08:18\n"
 
 #. module: attribute_set
 #: code:addons/attribute_set/models/attribute_attribute.py:0
@@ -244,7 +244,7 @@ msgstr "Anzeigename"
 #. module: attribute_set
 #: model:ir.model.fields,field_description:attribute_set.field_attribute_attribute__domain
 msgid "Domain"
-msgstr ""
+msgstr "Domäne"
 
 #. module: attribute_set
 #: model:ir.model.fields,field_description:attribute_set.field_attribute_attribute__tracking
